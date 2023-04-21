@@ -1,0 +1,52 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  rgb(10, 108, 49);
+   height: 80px;
+   padding: 0 20px;
+}
+
+.logo-container {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+   align-items: center;
+}
+
+.logo-container img{
+   
+    height: 55px;
+}
+
+.button-container{
+  flex:1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.button-container button{
+  
+    background-color: cyan;
+    color: blue;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+}
+
+.input-container{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.input-container input {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    border-radius: 6px;
+    border: none;
+}

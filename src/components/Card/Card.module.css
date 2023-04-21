@@ -1,0 +1,10 @@
+.Card {
+
+      border: 8px  solid rgb(2, 61, 16);
+      width: 100%;
+      display: flex;
+}
+img{
+
+    width: 100%;
+}

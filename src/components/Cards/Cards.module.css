@@ -1,0 +1,6 @@
+.Cards {
+   display : flex ; 
+   padding: 15px;
+   border: 8px solid rgb(111, 255, 0);
+
+}
